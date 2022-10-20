@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{index.html}, nofooter 
+# jemdoc: addcss{jemdoc.css}
+==Yinan Huang
+
+~~~
+{}{img_left}{photo_cut.png}{alt text}{160}{160}{}
+Master student, ECE, Duke University\n
+Phone: \+86 15819855421 \n
+E-mail: yinan8114 \[@\] gmail \[DOT\] com
+
+[CV.pdf Curriculum Vitae] \n
+[CV.pdf Research Proposal]
+~~~
+
+== About
+I am a final-year master student in electrical and computer engineering at Duke University. Prior to that, I received my bachelor degree in physics from Sun Yat-sen University in China. 
+
+My research interests mainly include
+
+- graph neural networks and graph representation learning;
+- geometric deep learning and equivariant neural networks;
+- their applications in computational chemistry, drug design and combinatorial optimization, etc.
+
+
+== Publications 
+*Yinan Huang*, Xingang Peng, Jianzhu Ma, Muhan Zhang. [https://proceedings.mlr.press/v162/huang22g.html 3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design], accepted by ICML2022 (long representation, 118/5630).

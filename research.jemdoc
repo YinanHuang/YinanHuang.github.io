@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{research.html}, nofooter 
+# jemdoc: addcss{jemdoc.css}
+==Research 
+
+~~~
+{}{img_left}{voc.png}{alt text}{560}{300}{}
+~~~
+
+== Projects 
