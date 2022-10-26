@@ -22,5 +22,8 @@ My research interests mainly include
 - their applications in computational chemistry, drug design and combinatorial optimization, etc.
 
 
-== Publications 
+== Publications & Preprints
+
+*Yinan Huang*, Xingang Peng, Jianzhu Ma, Muhan Zhang. [https://arxiv.org/abs/2210.13978 Boosting the Cycle Counting Power of Graph Neural Networks with I2-GNNs], arxiv:2210.13978.
+
 *Yinan Huang*, Xingang Peng, Jianzhu Ma, Muhan Zhang. [https://proceedings.mlr.press/v162/huang22g.html 3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design], accepted by ICML2022 (long representation, 118/5630).
