@@ -32,9 +32,11 @@ body {
 }
 
 #layout-content {
-	padding-top: 0.0em;
-	padding-left: 1.0em;
-	padding-right: 1.0em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;        /* remove any top margin */
+    padding: 0 2em 2em;   /* only side and bottom padding */
+    max-width: 900px;          /* control text width for readability */
     border: none;
     background: white;
     text-align: left;
