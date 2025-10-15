@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{pub.html}, nofooter 
+# jemdoc: addcss{jemdoc.css}
+==Paper list
+
+Most up-to-date list can be found at [https://scholar.google.com/citations?user=mxYLn8MAAAAJ&hl=zh-en Google Scholar]
+== Publications
+- [https://arxiv.org/abs/2506.08347 Differentially Private Relational Learning with Entity-level Privacy Guarantees]\n *Yinan Huang*\*,  Haoteng Yin\*, Eli Chien, Rongzhe Wei, Pan Li \n NeurIPS 2025
+
+- [https://openreview.net/forum?id=OuZQSnPIBY GenAI Copyright Evidence with Operational Meaning]\n Eli Chien\*, Amit Saha\*, *Yinan Huang*\*, Pan Li \n ICML Workshop on Reliable and Responsible Foundation Models, 2025
+
+- [https://arxiv.org/abs/2407.20912 What Are Good Positional Encodings for Directed Graphs?]\n *Yinan Huang*, Haoyu Wang, Pan Li. \n ICLR2025
+
+- [https://arxiv.org/abs/2310.02579 On the Stability of Expressive Positional Encodings for Graphs]\n *Yinan Huang*\*, William Lu\*, Joshua Robinson, Yu Yang, Muhan Zhang, Stefanie Jegelka, Pan Li\n ICLR 2024
+
+- [https://arxiv.org/abs/2302.05743 Is Distance Matrix Enough for Geometric Deep Learning?]\n Zian Li, Xiyuan Wang, *Yinan Huang*, Muhan Zhang\n NeurIPS 2023
+
+- [https://arxiv.org/abs/2210.13978 Boosting the Cycle Counting Power of Graph Neural Networks with I2-GNNs]\n *Yinan Huang*, Xingang Peng, Jianzhu Ma, Muhan Zhang \n ICLR 2023
+
+- [https://proceedings.mlr.press/v162/huang22g.html 3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design]\n *Yinan Huang*, Xingang Peng, Jianzhu Ma, Muhan Zhang \n ICML 2022 (Oral).
+
+== Preprints
+
+- [https://arxiv.org/abs/2506.07343 Powers of Magnetic Graph Matrix: Fourier Spectrum, Walk Compression, and Applications]\n *Yinan Huang*, David F Gleich, Pan Li\n arXiv:2506.07343
+
+
+- [https://arxiv.org/abs/2406.05815 What Can We Learn from State Space Models for Machine Learning on Graphs?]\n *Yinan Huang*\*, Siqi Miao\*, Pan Li\n arXiv:2406.05815
+
+- [https://arxiv.org/abs/2410.06460 A Benchmark on Directed Graph Representation Learning in Hardware Designs]\n Haoyu Wang, *Yinan Huang*, Nan Wu, Pan Li\n arXiv:2410.06460
+
+
+

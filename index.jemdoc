@@ -9,13 +9,12 @@ Phone: \+1 919-699-2352 \n
 #E-mail: yinan8114 \[@\] gmail \[DOT\] com
 E-mail: yhuang903@gatech.edu \n
 Address: 12th Floor, Coda Building, 756 W Peachtree St NW, Atlanta, GA 30308
-
-#[CV_YinanHuang_2025.pdf Curriculum Vitae] \n
-[https://scholar.google.com/citations?user=mxYLn8MAAAAJ&hl=zh-en Google Scholar]
 ~~~
 
+#[CV_YinanHuang_2025.pdf Curriculum Vitae] \n
+
 == About
-I am a third-year Ph.D. student in Machine Learning at Georgia Tech, supervised by Prof. Pan Li. Before that, I earned my M.S. degree in ECE at Duke University and B.S. degree in Physics at Sun Yat-sen University. I also spent one year as a research intern at Peking University, supervised by Prof. Muhan Zhang. 
+I am a third-year Ph.D. student in Machine Learning at Georgia Tech, supervised by Prof. [https://sites.google.com/view/panli-purdue/home Pan Li]. Before that, I earned my M.S. degree in ECE at Duke University and B.S. degree in Physics at Sun Yat-sen University. I also spent one year as a research intern at Peking University, supervised by Prof. Muhan Zhang. 
 
 
 My current research mainly focuses on generative models (diffusion models and flow matching). I am also working on differential privacy and geometric deep learning (machine learning on graphs, equivariant neural networks).
@@ -23,12 +22,14 @@ My current research mainly focuses on generative models (diffusion models and fl
 
 == Selected Publications
 
+
+#{}{img_left}{imgs/nodedp.png}{alt text}{360}{160}{}
 - [https://arxiv.org/abs/2506.08347 Differentially Private Relational Learning with Entity-level Privacy Guarantees]\n *Yinan Huang*\*,  Haoteng Yin\*, Eli Chien, Rongzhe Wei, Pan Li \n NeurIPS 2025
-
+#{}{img_left}{imgs/walk_profile.png}{alt text}{360}{160}{}
 - [https://arxiv.org/abs/2407.20912 What Are Good Positional Encodings for Directed Graphs?]\n *Yinan Huang*, Haoyu Wang, Pan Li. \n ICLR2025
-
+#{}{img_left}{imgs/stable_pe.png}{alt text}{360}{160}{}
 - [https://arxiv.org/abs/2310.02579 On the Stability of Expressive Positional Encodings for Graphs]\n *Yinan Huang*\*, William Lu\*, Joshua Robinson, Yu Yang, Muhan Zhang, Stefanie Jegelka, Pan Li\n ICLR 2024
-
+#{}{img_left}{imgs/cycle.png}{alt text}{360}{160}{}
 - [https://arxiv.org/abs/2210.13978 Boosting the Cycle Counting Power of Graph Neural Networks with I2-GNNs]\n *Yinan Huang*, Xingang Peng, Jianzhu Ma, Muhan Zhang \n ICLR 2023
-
+#{}{img_left}{imgs/3dlinker.png}{alt text}{360}{160}{}
 - [https://proceedings.mlr.press/v162/huang22g.html 3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design]\n *Yinan Huang*, Xingang Peng, Jianzhu Ma, Muhan Zhang \n ICML 2022 (Oral).

@@ -367,3 +367,19 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+
+
+/* Sharpen images and prevent browser blur */
+img {
+  height: auto;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+}
+
+/* Optional: limit default width of profile images */
+img[alt*="photo"], img[alt*="Photo"], img[alt*="portrait"] {
+  width: 160px;
+  height: auto;
+}
+
