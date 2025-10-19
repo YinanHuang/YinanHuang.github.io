@@ -17,8 +17,12 @@ Address: 12th Floor, Coda Building, 756 W Peachtree St NW, Atlanta, GA 30308
 I am a third-year Ph.D. student in Machine Learning at Georgia Tech, supervised by Prof. [https://sites.google.com/view/panli-purdue/home Pan Li]. My current research mainly focuses on generative models (diffusion models and flow matching). I am also working on differential privacy and geometric deep learning (machine learning on graphs, equivariant neural networks).
 
 
+<<<<<<< HEAD
 Prior to that, I earned my M.S. degree in ECE at Duke University and B.S. degree in Physics at Sun Yat-sen University. I also spent one year as a research intern at Peking University, supervised by Prof. Muhan Zhang. 
 
+=======
+I am interested in the theoretical foundation and algorithm design of machine learning, as well as their applications in scientific domains. My current research is mainly focused on generative models (diffusion models and flow matching). I am also working on differential privacy and geometric deep learning (machine learning on graphs, equivariant neural networks).
+>>>>>>> 6f70961208d8ae9b73241e87e96284b255c37673
 
 
 == Selected Publications
