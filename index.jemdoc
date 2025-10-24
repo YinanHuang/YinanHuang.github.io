@@ -14,7 +14,11 @@ Address: 12th Floor, Coda Building, 756 W Peachtree St NW, Atlanta, GA 30308
 #[CV_YinanHuang_2025.pdf Curriculum Vitae] \n
 
 == About
-I am a third-year Ph.D. student in Machine Learning at Georgia Tech, supervised by Prof. [https://sites.google.com/view/panli-purdue/home Pan Li]. My current research focuses on generative models, particularly diffusion models and flow matching. Recently, I have been working on developing efficient diffusion models for sequential and time-series data, and exploring their applications in scientific domains such as control and forecasting. I also work on differential privacy and geometric deep learning, including machine learning on graphs and equivariant neural networks. 
+I am a third-year Ph.D. student in Machine Learning at Georgia Tech, supervised by Prof. [https://sites.google.com/view/panli-purdue/home Pan Li]. My current research is focused on
+
+- *generative models*: diffusion models and flow matching, and their applications in scientific domains such as control and forecasting. 
+- *trustworthy AI*: privacy-preserving deep learning.
+- *geometric deep learning*: machine learning on graph/structured data, equivariant neural networks. 
 
 
 Prior to that, I earned my M.S. degree in ECE at Duke University and B.S. degree in Physics at Sun Yat-sen University. I also spent one year as a research intern at Peking University, supervised by Prof. Muhan Zhang. 
