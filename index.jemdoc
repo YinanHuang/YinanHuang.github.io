@@ -22,6 +22,11 @@ I am a third-year Ph.D. student in Machine Learning at Georgia Tech, supervised 
 
 Prior to that, I earned my M.S. degree in ECE at Duke University and B.S. degree in Physics at Sun Yat-sen University. I also spent one year as a research intern at Peking University, supervised by Prof. [https://muhanzhang.github.io/ Muhan Zhang]. 
 
+
+== News
+
+*2026/2* Our paper [https://arxiv.org/abs/2506.07343 Powers of Magnetic Graph Matrix: Fourier Spectrum, Walk Compression, and Applications] is accepted by *PNAS*! A very interesting work studying the connection between random walk on directed networks and the Fourier transform of the Magnetic Laplacian.
+
 == Selected Publications & Preprints
 - [https://arxiv.org/abs/2602.05319 Accelerated Sequential Flow Matching: A Bayesian Filtering Perspective]\n *Yinan Huang*, Hans Hao-Hsun Hsu, Junran Wang, Bo Dai, Pan Li \n arXiv:2602.05319
 - [https://arxiv.org/abs/2506.07343 Powers of Magnetic Graph Matrix: Fourier Spectrum, Walk Compression, and Applications] \n *Yinan Huang*, David F. Gleich, Pan Li \n The Proceedings of the National Academy of Sciences (PNAS) 2026
