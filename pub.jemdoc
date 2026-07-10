@@ -4,6 +4,11 @@
 
 Most up-to-date list can be found at [https://scholar.google.com/citations?user=mxYLn8MAAAAJ&hl=zh-en Google Scholar]
 == Publications
+
+- [https://arxiv.org/abs/2410.06460 A Benchmark on Directed Graph Representation Learning in Hardware Designs]\n Haoyu Wang, *Yinan Huang*, Nan Wu, Pan Li\n IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+
+- [https://arxiv.org/abs/2406.05815 What Can We Learn from State Space Models for Machine Learning on Graphs?]\n *Yinan Huang*\*, Siqi Miao\*, Pan Li\n IEEE Transactions on Pattern Analysis and Machine Intelligence
+
 - [https://arxiv.org/abs/2506.07343 Powers of Magnetic Graph Matrix: Fourier Spectrum, Walk Compression, and Applications]\n *Yinan Huang*, David F Gleich, Pan Li\n The Proceedings of the National Academy of Sciences (PNAS) 2026
 
 - [https://arxiv.org/abs/2506.08347 Differentially Private Relational Learning with Entity-level Privacy Guarantees]\n *Yinan Huang*\*,  Haoteng Yin\*, Eli Chien, Rongzhe Wei, Pan Li \n NeurIPS 2025
@@ -22,9 +27,4 @@ Most up-to-date list can be found at [https://scholar.google.com/citations?user=
 
 == Preprints
 
-- [https://arxiv.org/abs/2406.05815 What Can We Learn from State Space Models for Machine Learning on Graphs?]\n *Yinan Huang*\*, Siqi Miao\*, Pan Li\n arXiv:2406.05815
-
-- [https://arxiv.org/abs/2410.06460 A Benchmark on Directed Graph Representation Learning in Hardware Designs]\n Haoyu Wang, *Yinan Huang*, Nan Wu, Pan Li\n arXiv:2410.06460
-
-
-
+- [https://arxiv.org/abs/2602.05319 Accelerated Sequential Flow Matching: A Bayesian Filtering Perspective]\n *Yinan Huang*, Hans Hao-Hsun Hsu, Junran Wang, Bo Dai, Pan Li \n arXiv:2602.05319
